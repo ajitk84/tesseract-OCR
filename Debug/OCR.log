@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall tesseract::TessBaseAPI::TessBaseAPI(void)" (??0TessBaseAPI@tesseract@@QAE@XZ) referenced in function _main
+D:\OCR_Test\Tesseract-OCR_for_Windows-master\x64\Debug\libtesseract.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\OCR_Test\OCR\Debug\OCR.exe : fatal error LNK1120: 1 unresolved externals
