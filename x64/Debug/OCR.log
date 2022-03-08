@@ -1,1 +1,4 @@
-﻿  OCR.vcxproj -> D:\OCR_Test\OCR\x64\Debug\OCR.exe
+﻿  main.cpp
+  tesseract.cpp
+  Generating Code...
+  OCR.vcxproj -> D:\tesseract-OCR\x64\Debug\OCR.exe
