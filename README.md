@@ -1,2 +1,2 @@
 # tesseract-OCR
- Performs Chacter recognition using tesseract engine
+ Performs Character recognition using tesseract engine
